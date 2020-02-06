@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="測試地圖" 地圖檔="map\map800.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="800" 雷達圖="smap\800"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="測試公會戰場1" 地圖檔="map\map801.mpc" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="801" 雷達圖="smap\800"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="測試公會戰場2" 地圖檔="map\map802.mpc" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="802" 雷達圖="smap\800"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="測試公會戰場3" 地圖檔="map\map803.mpc" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="803" 雷達圖="smap\800"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="測試副本2" 地圖檔="map\map850.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="850" 雷達圖="smap\850"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map903.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="903" 雷達圖="smap\903"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map905.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="905" 雷達圖="smap\905"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map906.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="906" 雷達圖="smap\906"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map907.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="907" 雷達圖="smap\907"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map908.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="908" 雷達圖="smap\908"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="ver9_boss2(Testmap)" 地圖檔="map\ver10_boss2.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="909" 雷達圖="smap\908"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="ver10_boss3測試地圖" 地圖檔="map\ver10_boss3.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="910" 雷達圖="smap\908"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="ver10_boss1(Testmap)" 地圖檔="map\ver10_boss1.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="911" 雷達圖="smap\908"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="-1" 名稱="Neo-Totem Battle(Testmap)(League)" 國戰地圖="否" 地圖檔="map\map912.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="912" 陣營="光明" 雷達圖="smap\908"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 原領地編號="912" 名稱="Neo-Totem Battlefield" 國戰地圖="是" 地圖檔="map\map913.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="913" 陣營="光明" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 亮度="-1" 名稱="測試地圖" 地圖檔="map\map990.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="990" 雷達圖="smap\908"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="300" 名稱="測試地圖" 國戰地圖="否" 地圖檔="map\map991.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="991" 雷達圖="smap\991"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="測試地圖" 地圖檔="map\map992_87.mpc" 天氣="小櫻花雨" 筆刷檔="brush\brush.gic" 編號="992" 配樂檔1="music\30.ogg" 雷達圖="smap\087"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 動態空間="是" 名稱="Testing Map" 地圖檔="map\map993.mpc" 天氣="0" 平行空間="6" 筆刷檔="brush\brush.gic" 編號="993" 雷達圖="smap\993"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 名稱="Testing Map" 地圖檔="map\map994.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="994" 雷達圖="smap\994"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map995.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="995" 雷達圖="smap\995"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 國戰地圖="是" 地圖檔="map\map996.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="996" 雷達圖="smap\996"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map997.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="997" 雷達圖="smap\997"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\map998.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="998" 雷達圖="smap\998"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="-1" 名稱="Testing Map" 地圖檔="map\test.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="999" 雷達圖="smap\test"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 人數="20" 動態空間="是" 名稱="house" 地圖檔="NONE" 天氣="無" 平行空間="4000" 筆刷檔="brush\brush.gic" 編號="500" 配樂檔1="music\35.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 人數="100" 動態空間="是" 名稱="Farm" 地圖檔="map\farm.mpc" 天氣="無" 平行空間="2000" 筆刷檔="brush\brush.gic" 編號="501" 配樂檔1="music\11.ogg" 雷達圖="smap\501"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 人數="1000" 名稱="Angel Elementary" 地圖檔="map\question.mpc" 天氣="無" 筆刷檔="brush\brush.gic" 編號="502" 配樂檔1="music\11.ogg" 雷達圖="smap\160"/>
+	<場景 亮度="-1" 名稱="Riprap Coast" 地圖檔="map\map002.mpc" 天氣="1" 筆刷檔="brush\brush.gic" 編號="2" 配樂檔1="music\12.ogg" 陣營="光明" 雷達圖="smap\002"/>
+	<場景 不懲罰="是" 亮度="-1" 名稱="Aurora City" 地圖檔="map\map003.mpc" 天氣="無" 筆刷檔="brush\brush.gic" 編號="3" 配樂檔1="music\03.ogg" 配樂檔2="music\04.ogg" 陣營="光明" 雷達圖="smap\003"/>
+	<場景 亮度="-1" 名稱="Dawn Harbor" 地圖檔="map\map004.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="4" 配樂檔1="music\12.ogg" 陣營="光明" 雷達圖="smap\004"/>
+	<場景 亮度="-1" 名稱="Cherry Village" 地圖檔="map\map005.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="5" 配樂檔1="music\12.ogg" 陣營="光明" 雷達圖="smap\005"/>
+	<場景 亮度="-1" 名稱="Spike Farm" 地圖檔="map\map006.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="6" 配樂檔1="music\11.ogg" 陣營="光明" 雷達圖="smap\006"/>
+	<場景 亮度="-1" 名稱="Sunflower Plain" 地圖檔="map\map007.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="7" 配樂檔1="music\11.ogg" 陣營="光明" 雷達圖="smap\007"/>
+	<場景 亮度="-1" 名稱="Crashing Hillock" 地圖檔="map\map008.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="8" 配樂檔1="music\11.ogg" 陣營="光明" 雷達圖="smap\008"/>
+	<場景 亮度="-1" 名稱="South of Mirror Lake" 地圖檔="map\map009.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="9" 配樂檔1="music\14.ogg" 陣營="大地" 雷達圖="smap\009"/>
+	<場景 亮度="-1" 名稱="Thunder Ruins" 地圖檔="map\map011.mpc" 天氣="5" 筆刷檔="brush\brush.gic" 編號="11" 配樂檔1="music\17.ogg" 陣營="光明" 雷達圖="smap\011"/>
+	<場景 亮度="-1" 名稱="North of Mirror Lake" 地圖檔="map\map012.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="12" 配樂檔1="music\14.ogg" 陣營="大地" 雷達圖="smap\012"/>
+	<場景 亮度="-1" 名稱="Jade Vale" 地圖檔="map\map013.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="13" 配樂檔1="music\14.ogg" 陣營="大地" 雷達圖="smap\013"/>
+	<場景 亮度="96" 名稱="Degula Maze" 地圖檔="map\map014.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="14" 配樂檔1="music\18.ogg" 陣營="黑暗" 雷達圖="smap\014"/>
+	<場景 亮度="-1" 名稱="Mysterious Wetland" 地圖檔="map\map015.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="15" 配樂檔1="music\16.ogg" 陣營="黑暗" 雷達圖="smap\015"/>
+	<場景 亮度="-1" 名稱="Thorn Wasteland" 地圖檔="map\map016.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="16" 配樂檔1="music\17.ogg" 陣營="光明" 雷達圖="smap\016"/>
+	<場景 亮度="-1" 名稱="Quiet Vale" 地圖檔="map\map017.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="17" 配樂檔1="music\15.ogg" 陣營="大地" 雷達圖="smap\017"/>
+	<場景 亮度="-1" 名稱="Mushroom Forest" 地圖檔="map\map018.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="18" 配樂檔1="music\15.ogg" 陣營="大地" 雷達圖="smap\018"/>
+	<場景 亮度="-1" 名稱="Fungus Forest South" 地圖檔="map\map019.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="19" 配樂檔1="music\17.ogg" 陣營="黑暗" 雷達圖="smap\019"/>
+	<場景 亮度="-1" 名稱="Foggy Forest" 地圖檔="map\map020.mpc" 天氣="4" 筆刷檔="brush\brush.gic" 編號="20" 配樂檔1="music\16.ogg" 陣營="黑暗" 雷達圖="smap\020"/>
+	<場景 亮度="-1" 名稱="Dragon Graveyard" 地圖檔="map\map021.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="21" 配樂檔1="music\20.ogg" 陣營="渾沌" 雷達圖="smap\021"/>
+	<場景 亮度="-1" 名稱="Mysterious Garden" 地圖檔="map\map022.mpc" 天氣="3" 筆刷檔="brush\brush.gic" 編號="22" 配樂檔1="music\14.ogg" 陣營="大地" 雷達圖="smap\022"/>
+	<場景 亮度="-1" 名稱="Dense Forest" 地圖檔="map\map023.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="23" 配樂檔1="music\15.ogg" 陣營="大地" 雷達圖="smap\023"/>
+	<場景 亮度="-1" 名稱="Fungus Forest North" 地圖檔="map\map025.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="25" 配樂檔1="music\17.ogg" 陣營="黑暗" 雷達圖="smap\025"/>
+	<場景 不懲罰="是" 亮度="128" 名稱="Dark City" 地圖檔="map\map026.mpc" 天氣="無" 筆刷檔="brush\brush.gic" 編號="26" 配樂檔1="music\05.ogg" 配樂檔2="music\06.ogg" 陣營="黑暗" 雷達圖="smap\026"/>
+	<場景 亮度="-1" 名稱="Deity Palace Ruins" 地圖檔="map\map027.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="27" 配樂檔1="music\23.ogg" 陣營="渾沌" 雷達圖="smap\027"/>
+	<場景 亮度="-1" 名稱="Megalith Plain" 地圖檔="map\map028.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="28" 配樂檔1="music\11.ogg" 陣營="渾沌" 雷達圖="smap\028"/>
+	<場景 不懲罰="是" 亮度="-1" 名稱="Breeze Woods" 地圖檔="map\map029.mpc" 天氣="無" 筆刷檔="brush\brush.gic" 編號="29" 配樂檔1="music\09.ogg" 配樂檔2="music\10.ogg" 陣營="大地" 雷達圖="smap\029"/>
+	<場景 亮度="-1" 名稱="Cryptic Moon Swamp" 地圖檔="map\map030.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="30" 配樂檔1="music\17.ogg" 陣營="大地" 雷達圖="smap\030"/>
+	<場景 亮度="96" 名稱="Bottomless Pit" 地圖檔="map\map031.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="31" 配樂檔1="music\18.ogg" 陣營="黑暗" 雷達圖="smap\031"/>
+	<場景 亮度="96" 名稱="Shadowy Path" 地圖檔="map\map032.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="32" 配樂檔1="music\18.ogg" 陣營="黑暗" 雷達圖="smap\032"/>
+	<場景 亮度="-1" 名稱="Burning Desert" 地圖檔="map\map033.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="33" 配樂檔1="music\20.ogg" 陣營="渾沌" 雷達圖="smap\033"/>
+	<場景 亮度="-1" 名稱="Scrap Iron Village" 地圖檔="map\map034.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="34" 配樂檔1="music\21.ogg" 陣營="渾沌" 雷達圖="smap\034"/>
+	<場景 亮度="96" 名稱="Memory Cave" 地圖檔="map\map035.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="35" 配樂檔1="music\18.ogg" 陣營="黑暗" 雷達圖="smap\035"/>
+	<場景 亮度="-1" 名稱="Gebuer Vale" 地圖檔="map\map036.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="36" 配樂檔1="music\22.ogg" 陣營="渾沌" 雷達圖="smap\036"/>
+	<場景 亮度="-1" 名稱="Wishing Tear" 地圖檔="map\map037.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="37" 配樂檔1="music\21.ogg" 陣營="渾沌" 雷達圖="smap\037"/>
+	<場景 不懲罰="是" 亮度="-1" 名稱="Iron Castle" 地圖檔="map\map038.mpc" 天氣="無" 筆刷檔="brush\brush.gic" 編號="38" 配樂檔1="music\07.ogg" 配樂檔2="music\08.ogg" 陣營="渾沌" 雷達圖="smap\038"/>
+	<場景 亮度="-1" 名稱="Cactus Plain" 地圖檔="map\map039.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="39" 配樂檔1="music\21.ogg" 陣營="渾沌" 雷達圖="smap\039"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="Angel Lyceum" 地圖檔="map\map041.mpc" 天氣="無" 筆刷檔="brush\brush.gic" 編號="41" 配樂檔1="music\02.ogg" 雷達圖="smap\041"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="East Playground" 地圖檔="map\map042.mpc" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="42" 配樂檔1="music\11.ogg" 雷達圖="smap\042"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="West Playground" 地圖檔="map\map043.mpc" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="43" 配樂檔1="music\11.ogg" 雷達圖="smap\043"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Training Palace" 地圖檔="map\map044.mpc" 天氣="0" 平行空間="3" 筆刷檔="brush\brush.gic" 編號="44" 配樂檔1="music\19.ogg" 雷達圖="smap\044"/>
+	<場景 不懲罰="是" 亮度="160" 名稱="Training Cave(small)" 地圖檔="map\map045.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="45" 配樂檔1="music\11.ogg" 雷達圖="smap\045"/>
+	<場景 不懲罰="是" 亮度="160" 名稱="Training Cave(big)" 地圖檔="map\map046.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="46" 配樂檔1="music\11.ogg" 雷達圖="smap\046"/>
+	<場景 PK="是" 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Outpost Battlefield" 地圖檔="map\map047.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="47" 配樂檔1="music\26.ogg" 雷達圖="smap\047"/>
+	<場景 PK="是" 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Outpost Battlefield" 地圖檔="map\map048.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="48" 配樂檔1="music\26.ogg" 雷達圖="smap\047"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Territory Area" 地圖檔="map\map050.mpc" 天氣="0" 平行空間="8" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="50" 配樂檔1="music\26.ogg" 雷達圖="smap\050"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Guide Palace" 地圖檔="map\map051.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="51" 配樂檔1="music\02.ogg" 雷達圖="smap\051"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Aurora Area" 地圖檔="map\map052.mpc" 天氣="0" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="52" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Beast Area" 地圖檔="map\map053.mpc" 天氣="0" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="53" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Steel Area" 地圖檔="map\map054.mpc" 天氣="0" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="54" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Shadow Area" 地圖檔="map\map055.mpc" 天氣="0" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="55" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Degula Fishing Cave" 地圖檔="map\map056.mpc" 天氣="0" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="56" 配樂檔1="music\48.ogg" 雷達圖="smap\155"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Fighting Palace" 地圖檔="map\map057.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="57" 配樂檔1="music\02.ogg" 雷達圖="smap\051"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Graduation Palace" 地圖檔="map\map058.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="58" 配樂檔1="music\02.ogg" 雷達圖="smap\051"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Asmode Den" 地圖檔="map\map059.mpc" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="59" 配樂檔1="music\25.ogg" 雷達圖="smap\059"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Violators' Prison" 地圖檔="map\map060.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="60" 配樂檔1="music\02.ogg" 雷達圖="smap\060"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Nightmare Cave" 地圖檔="map\map061.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="61" 配樂檔1="music\23.ogg" 雷達圖="smap\061"/>
+	<場景 不可標記="是" 亮度="255" 名稱="GM Foyer" 地圖檔="map\map062.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="62" 配樂檔1="music\02.ogg" 雷達圖="smap\051"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Aurora Dragon Area" 地圖檔="map\map063.mpc" 天氣="0" 平行空間="3" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="63" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Beasts Dragon Area" 地圖檔="map\map064.mpc" 天氣="0" 平行空間="3" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="64" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Steel Dragon Area" 地圖檔="map\map065.mpc" 天氣="0" 平行空間="3" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="65" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="180" 名稱="Shadow Dragon Area" 地圖檔="map\map066.mpc" 天氣="0" 平行空間="3" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="66" 配樂檔1="music\26.ogg" 雷達圖="smap\052"/>
+	<場景 亮度="180" 名稱="Sad Abyss" 地圖檔="map\map067.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="67" 配樂檔1="music\25.ogg" 雷達圖="smap\067"/>
+	<場景 亮度="180" 名稱="Fiery Path" 地圖檔="map\map068.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="68" 配樂檔1="music\25.ogg" 雷達圖="smap\068"/>
+	<場景 亮度="180" 名稱="Lava Cave" 地圖檔="map\map069.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="69" 配樂檔1="music\25.ogg" 雷達圖="smap\069"/>
+	<場景 亮度="180" 名稱="Flaming Door" 地圖檔="map\map070.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="70" 配樂檔1="music\25.ogg" 雷達圖="smap\070"/>
+	<場景 亮度="180" 名稱="Underground Square" 地圖檔="map\map071.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="71" 配樂檔1="music\25.ogg" 雷達圖="smap\071"/>
+	<場景 亮度="180" 名稱="Hell Palace" 地圖檔="map\map072.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="72" 配樂檔1="music\25.ogg" 雷達圖="smap\072"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="200" 分配類型="隊伍" 動態空間="是" 名稱="Magic Kichen Path" 地圖檔="map\map073.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="73" 配樂檔1="music\25.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="200" 分配類型="隊伍" 動態空間="是" 名稱="Magic Kichen Path" 地圖檔="map\map074.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="74" 配樂檔1="music\25.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="200" 分配類型="隊伍" 動態空間="是" 名稱="Magic Kichen Path" 地圖檔="map\map075.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="75" 配樂檔1="music\28.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="200" 分配類型="隊伍" 動態空間="是" 名稱="Gulp Room" 地圖檔="map\map076.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="76" 配樂檔1="music\26.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="200" 分配類型="隊伍" 動態空間="是" 名稱="Gulp Room" 地圖檔="map\map077.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="77" 配樂檔1="music\25.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="180" 分配類型="隊伍" 動態空間="是" 名稱="Gulp Room" 地圖檔="map\map078.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="78" 配樂檔1="music\25.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="200" 分配類型="隊伍" 動態空間="是" 名稱="Gulp Room" 地圖檔="map\map079.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="79" 配樂檔1="music\26.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不懲罰="是" 亮度="255" 名稱="Angel Church" 地圖檔="map\map080.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="80" 配樂檔1="music\02.ogg" 雷達圖="smap\080"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Forbidden Snow Area" 地圖檔="map\map081.mpc" 天氣="0" 平行空間="15" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="81" 配樂檔1="music\48.ogg" 雷達圖="smap\155"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 名稱="日本活動場地2" 地圖檔="map\map082.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="82" 配樂檔1="music\26.ogg" 雷達圖="smap\047"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="日本GM婚禮場地" 地圖檔="map\map083.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="83" 配樂檔1="music\02.ogg" 雷達圖="smap\080"/>
+	<場景 亮度="180" 名稱="Blue Sea" 地圖檔="map\map084.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="84" 配樂檔1="music\32.ogg" 雷達圖="smap\084"/>
+	<場景 亮度="180" 名稱="Colorful Coral Reefs" 地圖檔="map\map085.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="85" 配樂檔1="music\32.ogg" 雷達圖="smap\085"/>
+	<場景 亮度="255" 名稱="Golden Beach" 地圖檔="map\map086.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="86" 配樂檔1="music\30.ogg" 雷達圖="smap\086"/>
+	<場景 亮度="255" 名稱="Puqi Village" 地圖檔="map\map087.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="87" 配樂檔1="music\30.ogg" 雷達圖="smap\087"/>
+	<場景 亮度="255" 名稱="Palm Base" 地圖檔="map\map088.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="88" 配樂檔1="music\33.ogg" 雷達圖="smap\088"/>
+	<場景 亮度="180" 名稱="Wave Harbor" 地圖檔="map\map089.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="89" 配樂檔1="music\32.ogg" 雷達圖="smap\089"/>
+	<場景 亮度="96" 名稱="Blue Ocean" 地圖檔="map\map090.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="90" 配樂檔1="music\31.ogg" 雷達圖="smap\090"/>
+	<場景 亮度="96" 名稱="Sunken Ruins" 地圖檔="map\map091.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="91" 配樂檔1="music\29.ogg" 雷達圖="smap\091"/>
+	<場景 亮度="255" 名稱="Shining Coast" 地圖檔="map\map092.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="92" 配樂檔1="music\30.ogg" 雷達圖="smap\092"/>
+	<場景 亮度="180" 名稱="Dream Ocean" 地圖檔="map\map093.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="93" 配樂檔1="music\32.ogg" 雷達圖="smap\093"/>
+	<場景 亮度="180" 名稱="Raging Reefs" 地圖檔="map\map094.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="94" 配樂檔1="music\32.ogg" 雷達圖="smap\094"/>
+	<場景 亮度="96" 名稱="Quiet Ocean" 地圖檔="map\map095.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="95" 配樂檔1="music\31.ogg" 雷達圖="smap\095"/>
+	<場景 亮度="96" 名稱="Coral Vale" 地圖檔="map\map096.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="96" 配樂檔1="music\31.ogg" 雷達圖="smap\096"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="96" 分配類型="隊伍" 動態空間="是" 名稱="Evil Ship" 地圖檔="map\map097.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="97" 配樂檔1="music\34.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="96" 分配類型="隊伍" 動態空間="是" 名稱="Lost Region" 地圖檔="map\map098.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="98" 配樂檔1="music\29.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Panpaka Event" 地圖檔="map\map099.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="99" 配樂檔1="music\80.ogg" 雷達圖="smap\099"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Riddle Territory Area" 地圖檔="map\map100.mpc" 天氣="0" 平行空間="8" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="100" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="96" 分配類型="隊伍" 動態空間="是" 名稱="Horrible Lost Region" 地圖檔="map\map101.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="101" 配樂檔1="music\29.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="River Valley" 地圖檔="map\map102.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="102" 配樂檔1="music\35.ogg" 雷達圖="smap\102"/>
+	<場景 亮度="96" 名稱="Secret Den" 地圖檔="map\map103.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="103" 配樂檔1="music\35.ogg" 雷達圖="smap\103"/>
+	<場景 亮度="255" 名稱="Waterfall Camp" 地圖檔="map\map104.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="104" 配樂檔1="music\35.ogg" 雷達圖="smap\104"/>
+	<場景 亮度="180" 名稱="Noisy Rain Forest" 地圖檔="map\map105.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="105" 配樂檔1="music\36.ogg" 雷達圖="smap\105"/>
+	<場景 亮度="255" 名稱="Ancient Glide River" 地圖檔="map\map106.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="106" 配樂檔1="music\38.ogg" 雷達圖="smap\106"/>
+	<場景 亮度="255" 名稱="Half-beast Hamlet" 地圖檔="map\map107.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="107" 配樂檔1="music\37.ogg" 雷達圖="smap\107"/>
+	<場景 亮度="180" 名稱="Clouding Forest" 地圖檔="map\map108.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="108" 配樂檔1="music\36.ogg" 雷達圖="smap\108"/>
+	<場景 亮度="255" 名稱="Giant Wooden Stairs" 地圖檔="map\map109.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="109" 配樂檔1="music\38.ogg" 雷達圖="smap\109"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="180" 分配類型="隊伍" 動態空間="是" 名稱="Limitless Tower" 地圖檔="map\map110.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="110" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Cloud-top Land" 地圖檔="map\map111.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="111" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Holy Battlefield" 地圖檔="map\map112.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="112" 配樂檔1="music\39.ogg" 雷達圖="smap\112"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 人數="500" 名稱="Angel Arena" 地圖檔="map\map113.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="113" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Sign-up Office" 地圖檔="map\map114.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="114" 配樂檔1="music\02.ogg" 雷達圖="smap\114"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="Christmas Area I" 地圖檔="map\map115.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="115" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="粽夏王窟" 地圖檔="map\map116.mpc" 天氣="0" 平行空間="4" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="116" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Super Area" 地圖檔="map\map117.mpc" 天氣="0" 平行空間="4" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="117" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="Training Area" 地圖檔="map\map118.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="118" 配樂檔1="music\26.ogg" 雷達圖="smap\050"/>
+	<場景 PK="是" 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Colosseum" 地圖檔="map\map119.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="119" 配樂檔1="music\26.ogg" 雷達圖="smap\047"/>
+	<場景 亮度="255" 名稱="Crescent Valley" 地圖檔="map\map120.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="120" 配樂檔1="music\40.ogg" 雷達圖="smap\120"/>
+	<場景 亮度="255" 名稱="Desert Racetrack" 地圖檔="map\map121.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="121" 配樂檔1="music\40.ogg" 雷達圖="smap\121"/>
+	<場景 亮度="255" 名稱="Ghost Village" 地圖檔="map\map122.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="122" 配樂檔1="music\41.ogg" 雷達圖="smap\122"/>
+	<場景 亮度="255" 名稱="Troop Outpost" 地圖檔="map\map123.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="123" 配樂檔1="music\41.ogg" 雷達圖="smap\123"/>
+	<場景 亮度="255" 名稱="Ancient Front" 地圖檔="map\map124.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="124" 配樂檔1="music\41.ogg" 雷達圖="smap\124"/>
+	<場景 亮度="255" 名稱="Fantastic Sand City" 地圖檔="map\map125.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="125" 配樂檔1="music\42.ogg" 雷達圖="smap\125"/>
+	<場景 亮度="255" 名稱="Nightmare Palace" 地圖檔="map\map126.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="126" 配樂檔1="music\42.ogg" 雷達圖="smap\126"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Leviathan's Bedroom" 地圖檔="map\map127.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="127" 配樂檔1="music\43.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="200" 名稱="Dragon Field" 地圖檔="map\map128.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="128" 配樂檔1="music\16.ogg" 雷達圖="smap\128"/>
+	<場景 亮度="200" 名稱="Hermit Wetland" 地圖檔="map\map129.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="129" 配樂檔1="music\23.ogg" 雷達圖="smap\129"/>
+	<場景 亮度="255" 名稱="Flower Corridor" 地圖檔="map\map130.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="130" 配樂檔1="music\15.ogg" 雷達圖="smap\130"/>
+	<場景 亮度="255" 名稱="Sunshine Palace" 地圖檔="map\map131.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="131" 配樂檔1="music\17.ogg" 雷達圖="smap\131"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 名稱="Mystic Space" 地圖檔="map\map132.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="132" 配樂檔1="music\43.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="年獸洞窟" 地圖檔="map\map133.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="133" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="Training Area" 地圖檔="map\map134.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="134" 配樂檔1="music\26.ogg" 雷達圖="smap\050"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="Training Area" 地圖檔="map\map135.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="135" 配樂檔1="music\26.ogg" 雷達圖="smap\050"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="Training Area" 地圖檔="map\map136.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="136" 配樂檔1="music\26.ogg" 雷達圖="smap\050"/>
+	<場景 亮度="255" 名稱="Vine Front" 地圖檔="map\map137.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="137" 配樂檔1="music\44.ogg" 雷達圖="smap\137"/>
+	<場景 亮度="255" 名稱="Roam Battlefield" 地圖檔="map\map138.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="138" 配樂檔1="music\44.ogg" 雷達圖="smap\138"/>
+	<場景 亮度="255" 名稱="Sky Pumice" 地圖檔="map\map139.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="139" 配樂檔1="music\46.ogg" 雷達圖="smap\139"/>
+	<場景 亮度="255" 名稱="Winding Flower Corridor" 地圖檔="map\map140.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="140" 配樂檔1="music\46.ogg" 雷達圖="smap\140"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="Angel Lyceum" 地圖檔="map\map041.mpc" 場景對應="42,142,43,143,141,41" 天氣="0" 筆刷檔="brush\brush.gic" 編號="141" 配樂檔1="music\02.ogg" 雷達圖="smap\041"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="East Playground" 地圖檔="map\map042.mpc" 場景對應="41,141,44,144" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="142" 配樂檔1="music\11.ogg" 雷達圖="smap\042"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="West Playground" 地圖檔="map\map043.mpc" 場景對應="41,141,44,144" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="143" 配樂檔1="music\11.ogg" 雷達圖="smap\043"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Training Palace" 地圖檔="map\map044.mpc" 場景對應="42,142,43,143" 天氣="0" 平行空間="3" 筆刷檔="brush\brush.gic" 編號="144" 配樂檔1="music\19.ogg" 雷達圖="smap\044"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Botti Palace" 地圖檔="map\map145.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="145" 配樂檔1="music\47.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="Airship Station" 地圖檔="map\map146.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="146" 配樂檔1="music\45.ogg" 雷達圖="smap\146"/>
+	<場景 亮度="255" 名稱="Bouleuterion" 地圖檔="map\map147.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="147" 配樂檔1="music\45.ogg" 雷達圖="smap\147"/>
+	<場景 亮度="255" 名稱="Season Garden" 地圖檔="map\map148.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="148" 配樂檔1="music\46.ogg" 雷達圖="smap\148"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="Christmas Area II" 地圖檔="map\map149.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="149" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="Watermelon Area" 地圖檔="map\map150.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="150" 配樂檔1="music\26.ogg" 雷達圖="smap\047"/>
+	<場景 亮度="255" 名稱="Mushroom Village" 地圖檔="map\map151.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="151" 配樂檔1="music\48.ogg" 雷達圖="smap\151"/>
+	<場景 亮度="255" 名稱="Building Blocks County" 地圖檔="map\map152.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="152" 配樂檔1="music\49.ogg" 雷達圖="smap\152"/>
+	<場景 亮度="255" 名稱="Building Blocks City" 地圖檔="map\map153.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="153" 配樂檔1="music\49.ogg" 雷達圖="smap\153"/>
+	<場景 亮度="255" 名稱="Fruit Town" 地圖檔="map\map154.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="154" 配樂檔1="music\48.ogg" 雷達圖="smap\154"/>
+	<場景 亮度="255" 名稱="Chocolate Village" 地圖檔="map\map155.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="155" 配樂檔1="music\48.ogg" 雷達圖="smap\155"/>
+	<場景 亮度="255" 名稱="Strawberry Garden" 地圖檔="map\map156.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="156" 配樂檔1="music\50.ogg" 雷達圖="smap\156"/>
+	<場景 亮度="255" 名稱="Chocolate Forest" 地圖檔="map\map157.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="157" 配樂檔1="music\50.ogg" 雷達圖="smap\157"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Poker Castle" 地圖檔="map\map158.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="158" 配樂檔1="music\51.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 人數="500" 名稱="Angel Arena" 地圖檔="map\map159.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="159" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="韓版OX問答活動地圖" 地圖檔="map\map160.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="160" 配樂檔1="music\11.ogg" 雷達圖="smap\160"/>
+	<場景 亮度="180" 名稱="Lost Cove" 地圖檔="map\map161.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="161" 配樂檔1="music\52.ogg" 雷達圖="smap\161"/>
+	<場景 亮度="255" 名稱="Rock Forest" 地圖檔="map\map162.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="162" 配樂檔1="music\54.ogg" 雷達圖="smap\162"/>
+	<場景 亮度="255" 名稱="Hoca Village" 地圖檔="map\map163.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="163" 配樂檔1="music\53.ogg" 雷達圖="smap\163"/>
+	<場景 亮度="255" 名稱="Rex Point" 地圖檔="map\map164.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="164" 配樂檔1="music\53.ogg" 雷達圖="smap\164"/>
+	<場景 亮度="255" 名稱="Raven Riverpoint" 地圖檔="map\map165.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="165" 配樂檔1="music\54.ogg" 雷達圖="smap\165"/>
+	<場景 亮度="255" 名稱="Hunter's Ridge" 地圖檔="map\map166.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="166" 配樂檔1="music\54.ogg" 雷達圖="smap\166"/>
+	<場景 亮度="255" 名稱="Shilly Desert" 地圖檔="map\map167.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="167" 配樂檔1="music\52.ogg" 雷達圖="smap\167"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Dinosaur Arena" 地圖檔="map\map168.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="168" 配樂檔1="music\55.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="Karang Desert" 地圖檔="map\map169.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="169" 配樂檔1="music\56.ogg" 雷達圖="smap\169"/>
+	<場景 亮度="255" 名稱="Pharaoh Village" 地圖檔="map\map170.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="170" 配樂檔1="music\57.ogg" 雷達圖="smap\170"/>
+	<場景 亮度="255" 名稱="Niro River" 地圖檔="map\map171.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="171" 配樂檔1="music\57.ogg" 雷達圖="smap\171"/>
+	<場景 亮度="255" 名稱="Dune Oasis" 地圖檔="map\map172.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="172" 配樂檔1="music\57.ogg" 雷達圖="smap\172"/>
+	<場景 亮度="255" 名稱="Cave of Falling Sand" 地圖檔="map\map173.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="173" 配樂檔1="music\56.ogg" 雷達圖="smap\173"/>
+	<場景 亮度="255" 名稱="Goldbrick Road" 地圖檔="map\map174.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="174" 配樂檔1="music\58.ogg" 雷達圖="smap\174"/>
+	<場景 亮度="180" 名稱="Ancient Tombs" 地圖檔="map\map175.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="175" 配樂檔1="music\58.ogg" 雷達圖="smap\175"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="180" 分配類型="隊伍" 動態空間="是" 名稱="Unknown Chambers" 地圖檔="map\map176.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="176" 配樂檔1="music\59.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Heavenly Formation" 地圖檔="map\map177.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="177" 配樂檔1="music\39.ogg" 雷達圖="smap\177"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Slarm Sunny Farm" 地圖檔="map\map178.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="178" 配樂檔1="music\39.ogg" 雷達圖="smap\178"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Training City" 地圖檔="map\map179.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="179" 配樂檔1="music\39.ogg" 雷達圖="smap\179"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Ghostly Abyss" 地圖檔="map\map180.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="180" 配樂檔1="music\39.ogg" 雷達圖="smap\180"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Skyscraping Forest" 地圖檔="map\map181.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="181" 配樂檔1="music\38.ogg" 雷達圖="smap\181"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Happy Angel Village" 地圖檔="map\map182.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="182" 配樂檔1="music\40.ogg" 雷達圖="smap\182"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Goddess Tower" 地圖檔="map\map183.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="183" 配樂檔1="music\39.ogg" 雷達圖="smap\183"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Heavenly Formation" 地圖檔="map\map184.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="184" 配樂檔1="music\39.ogg" 雷達圖="smap\177"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Heavenly Formation" 地圖檔="map\map185.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="185" 配樂檔1="music\39.ogg" 雷達圖="smap\177"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Goddess Tower" 地圖檔="map\map186.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="186" 配樂檔1="music\39.ogg" 雷達圖="smap\183"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Goddess Tower" 地圖檔="map\map187.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="187" 配樂檔1="music\39.ogg" 雷達圖="smap\183"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Training City" 地圖檔="map\map188.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="188" 配樂檔1="music\39.ogg" 雷達圖="smap\179"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Training City" 地圖檔="map\map189.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="189" 配樂檔1="music\39.ogg" 雷達圖="smap\179"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Ghostly Abyss" 地圖檔="map\map190.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="190" 配樂檔1="music\39.ogg" 雷達圖="smap\180"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Ghostly Abyss" 地圖檔="map\map191.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="191" 配樂檔1="music\39.ogg" 雷達圖="smap\180"/>
+	<場景 亮度="255" 名稱="Port Cherube" 地圖檔="map\map192.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="192" 配樂檔1="music\61.ogg" 雷達圖="smap\192"/>
+	<場景 亮度="255" 名稱="Emerald Shores" 地圖檔="map\map193.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="193" 配樂檔1="music\60.ogg" 雷達圖="smap\193"/>
+	<場景 亮度="255" 名稱="Angelic Cave" 地圖檔="map\map194.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="194" 配樂檔1="music\62.ogg" 雷達圖="smap\194"/>
+	<場景 亮度="255" 名稱="Hazelnut Ridge" 地圖檔="map\map195.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="195" 配樂檔1="music\60.ogg" 雷達圖="smap\195"/>
+	<場景 亮度="255" 名稱="Gaia Valley" 地圖檔="map\map196.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="196" 配樂檔1="music\62.ogg" 雷達圖="smap\196"/>
+	<場景 亮度="255" 名稱="Dyna City" 地圖檔="map\map197.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="197" 配樂檔1="music\61.ogg" 雷達圖="smap\197"/>
+	<場景 亮度="255" 名稱="Butterfly Garden" 地圖檔="map\map198.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="198" 配樂檔1="music\60.ogg" 雷達圖="smap\198"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Phoenix Palace" 地圖檔="map\map199.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="199" 配樂檔1="music\63.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="8" 名稱="[TW]Crashing Hillock" 國戰地圖="是" 地圖檔="map\map200.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="200" 配樂檔1="music\39.ogg" 陣營="光明" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="9" 名稱="[TW]South of Mirror Lake" 國戰地圖="是" 地圖檔="map\map201.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="201" 配樂檔1="music\39.ogg" 陣營="大地" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="11" 名稱="[TW]Thunder Ruins" 國戰地圖="是" 地圖檔="map\map202.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="202" 配樂檔1="music\39.ogg" 陣營="光明" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="12" 名稱="[TW]North of Mirror Lake" 國戰地圖="是" 地圖檔="map\map203.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="203" 配樂檔1="music\39.ogg" 陣營="大地" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="15" 名稱="[TW]Mysterious Wetland" 國戰地圖="是" 地圖檔="map\map204.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="204" 配樂檔1="music\39.ogg" 陣營="黑暗" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="16" 名稱="[TW]Thorn Wasteland" 國戰地圖="是" 地圖檔="map\map205.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="205" 配樂檔1="music\39.ogg" 陣營="光明" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="17" 名稱="[TW]Quiet Vale" 國戰地圖="是" 地圖檔="map\map206.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="206" 配樂檔1="music\39.ogg" 陣營="大地" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="21" 名稱="[TW]Dragon Graveyard" 國戰地圖="是" 地圖檔="map\map207.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="207" 配樂檔1="music\39.ogg" 陣營="渾沌" 雷達圖="smap\200"/>
+	<場景 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 名稱="Daily Event Map(Japan)" 地圖檔="map\map208.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="208" 配樂檔1="music\02.ogg" 雷達圖="smap\114"/>
+	<場景 亮度="255" 名稱="Feather Leaf Forest" 地圖檔="map\map209.mpc" 天氣="自動下雪" 筆刷檔="brush\brush.gic" 編號="209" 配樂檔1="music\64.ogg" 雷達圖="smap\209"/>
+	<場景 亮度="255" 名稱="Snowball Village" 地圖檔="map\map210.mpc" 天氣="自動下雪" 筆刷檔="brush\brush.gic" 編號="210" 配樂檔1="music\65.ogg" 雷達圖="smap\210"/>
+	<場景 亮度="255" 名稱="Illusory Maze" 地圖檔="map\map211.mpc" 天氣="自動下雪" 筆刷檔="brush\brush.gic" 編號="211" 配樂檔1="music\66.ogg" 雷達圖="smap\211"/>
+	<場景 亮度="255" 名稱="Radiant Cave" 地圖檔="map\map212.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="212" 配樂檔1="music\66.ogg" 雷達圖="smap\212"/>
+	<場景 亮度="255" 名稱="Iceberg Lake" 地圖檔="map\map213.mpc" 天氣="自動下雪" 筆刷檔="brush\brush.gic" 編號="213" 配樂檔1="music\64.ogg" 雷達圖="smap\213"/>
+	<場景 亮度="255" 名稱="Subzero Market" 地圖檔="map\map214.mpc" 天氣="自動下雪" 筆刷檔="brush\brush.gic" 編號="214" 配樂檔1="music\65.ogg" 雷達圖="smap\214"/>
+	<場景 亮度="255" 名稱="Silver Wing Cable Car Station" 地圖檔="map\map215.mpc" 天氣="自動下雪" 筆刷檔="brush\brush.gic" 編號="215" 配樂檔1="music\66.ogg" 雷達圖="smap\215"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Blizarro Castle" 地圖檔="map\map216.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="216" 配樂檔1="music\67.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 人數="1" 分配類型="個人" 動態空間="是" 名稱="Olympus Tower" 地圖檔="map\map217.mpc" 天氣="0" 平行空間="1000" 強制傳送="41" 筆刷檔="brush\brush.gic" 終焉之塔專用地圖="是" 編號="217" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="7" 名稱="日版向日葵平原戰場" 國戰地圖="是" 地圖檔="map\map218.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="218" 配樂檔1="music\39.ogg" 陣營="光明" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="20" 名稱="日版鬼霧林戰場" 國戰地圖="是" 地圖檔="map\map219.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="219" 配樂檔1="music\39.ogg" 陣營="黑暗" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="22" 名稱="日版秘密花園戰場" 國戰地圖="是" 地圖檔="map\map220.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="220" 配樂檔1="music\39.ogg" 陣營="大地" 雷達圖="smap\200"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 原領地編號="28" 名稱="日版巨石草原戰場" 國戰地圖="是" 地圖檔="map\map221.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="221" 配樂檔1="music\39.ogg" 陣營="渾沌" 雷達圖="smap\200"/>
+	<場景 亮度="255" 名稱="Goldhill" 地圖檔="map\map222.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="222" 配樂檔1="music\68.ogg" 雷達圖="smap\222"/>
+	<場景 亮度="255" 名稱="Steam Town" 地圖檔="map\map223.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="223" 配樂檔1="music\70.ogg" 雷達圖="smap\223"/>
+	<場景 亮度="255" 名稱="Yeeha Bar" 地圖檔="map\map224.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="224" 配樂檔1="music\70.ogg" 雷達圖="smap\224"/>
+	<場景 亮度="180" 名稱="Agysical Tunnel" 地圖檔="map\map225.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="225" 配樂檔1="music\69.ogg" 雷達圖="smap\225"/>
+	<場景 亮度="255" 名稱="Sunset Valley" 地圖檔="map\map226.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="226" 配樂檔1="music\68.ogg" 雷達圖="smap\226"/>
+	<場景 亮度="255" 名稱="Desolate Ruins" 地圖檔="map\map227.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="227" 配樂檔1="music\68.ogg" 雷達圖="smap\227"/>
+	<場景 亮度="255" 名稱="Forbidden Sector" 地圖檔="map\map228.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="228" 配樂檔1="music\69.ogg" 雷達圖="smap\228"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Mundo Warship" 地圖檔="map\map229.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="229" 配樂檔1="music\71.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Christmas Area III" 地圖檔="map\map230.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="230" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 亮度="255" 名稱="Samara Woods" 地圖檔="map\map231.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="231" 配樂檔1="music\72.ogg" 雷達圖="smap\231"/>
+	<場景 亮度="255" 名稱="Edo City" 地圖檔="map\map232.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="232" 配樂檔1="music\73.ogg" 雷達圖="smap\232"/>
+	<場景 亮度="255" 名稱="Joy Festival" 地圖檔="map\map233.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="233" 配樂檔1="music\74.ogg" 雷達圖="smap\233"/>
+	<場景 亮度="255" 名稱="Sakura Valley" 地圖檔="map\map234.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="234" 配樂檔1="music\72.ogg" 雷達圖="smap\234"/>
+	<場景 亮度="255" 名稱="Hot Spring Resort" 地圖檔="map\map235.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="235" 配樂檔1="music\74.ogg" 雷達圖="smap\235"/>
+	<場景 亮度="255" 名稱="Fox Shrine" 地圖檔="map\map236.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="236" 配樂檔1="music\73.ogg" 雷達圖="smap\236"/>
+	<場景 亮度="180" 名稱="Ninja Land" 地圖檔="map\map237.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="237" 配樂檔1="music\73.ogg" 雷達圖="smap\237"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Jade Tassel City" 地圖檔="map\map238.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="238" 配樂檔1="music\75.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 人數="500" 名稱="戰天使擂台" 地圖檔="map\map239.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="239" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 人數="500" 名稱="戰天使擂台" 地圖檔="map\map240.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="240" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="Angel Lyceum" 地圖檔="map\map041.mpc" 場景對應="42,242,43,243,241,141,141,41" 天氣="0" 筆刷檔="brush\brush.gic" 編號="241" 配樂檔1="music\02.ogg" 雷達圖="smap\041"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="East Playground" 地圖檔="map\map042.mpc" 場景對應="41,241,44,244" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="242" 配樂檔1="music\11.ogg" 雷達圖="smap\042"/>
+	<場景 不懲罰="是" 亮度="255" 名稱="West Playground" 地圖檔="map\map043.mpc" 場景對應="41,241,44,244" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="243" 配樂檔1="music\11.ogg" 雷達圖="smap\043"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="Training Palace" 地圖檔="map\map044.mpc" 場景對應="42,242,43,243" 天氣="0" 平行空間="3" 筆刷檔="brush\brush.gic" 編號="244" 配樂檔1="music\19.ogg" 雷達圖="smap\044"/>
+	<場景 亮度="255" 名稱="Sweet Orchard" 地圖檔="map\map245.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="245" 配樂檔1="music\76.ogg" 雷達圖="smap\245"/>
+	<場景 亮度="255" 名稱="Fruity Village" 地圖檔="map\map246.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="246" 配樂檔1="music\76.ogg" 雷達圖="smap\246"/>
+	<場景 亮度="255" 名稱="Jade Garden" 地圖檔="map\map247.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="247" 配樂檔1="music\76.ogg" 雷達圖="smap\247"/>
+	<場景 亮度="255" 名稱="Luscious Grange" 地圖檔="map\map248.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="248" 配樂檔1="music\78.ogg" 雷達圖="smap\248"/>
+	<場景 亮度="255" 名稱="Branch Way" 地圖檔="map\map249.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="249" 配樂檔1="music\78.ogg" 雷達圖="smap\249"/>
+	<場景 亮度="255" 名稱="Lost Trail" 地圖檔="map\map250.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="250" 配樂檔1="music\77.ogg" 雷達圖="smap\250"/>
+	<場景 亮度="255" 名稱="Buzzing Stopover" 地圖檔="map\map251.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="251" 配樂檔1="music\77.ogg" 雷達圖="smap\251"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Queen Bee Hideout" 地圖檔="map\map252.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="252" 配樂檔1="music\79.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="低階獸人祕穴" 地圖檔="map\map253.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="253" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="中階獸人祕穴" 地圖檔="map\map254.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="254" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="高階獸人祕穴" 地圖檔="map\map255.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="255" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 亮度="255" 名稱="煉獄迎夏祕境" 地圖檔="map\map256.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="256" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 亮度="255" 名稱="Mariam Waterway" 地圖檔="map\map257.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="257" 配樂檔1="music\82.ogg" 雷達圖="smap\257"/>
+	<場景 亮度="255" 名稱="Shuwa Market" 地圖檔="map\map258.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="258" 配樂檔1="music\82.ogg" 雷達圖="smap\258"/>
+	<場景 亮度="255" 名稱="Bayan Village" 地圖檔="map\map259.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="259" 配樂檔1="music\81.ogg" 雷達圖="smap\259"/>
+	<場景 亮度="255" 名稱="Deserted Ruins" 地圖檔="map\map260.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="260" 配樂檔1="music\83.ogg" 雷達圖="smap\260"/>
+	<場景 亮度="255" 名稱="Siam Square" 地圖檔="map\map261.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="261" 配樂檔1="music\83.ogg" 雷達圖="smap\261"/>
+	<場景 亮度="255" 名稱="Hell Siam Square" 地圖檔="map\map262.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="262" 配樂檔1="music\83.ogg" 雷達圖="smap\261"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Mahal Altar" 地圖檔="map\map263.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="263" 配樂檔1="music\84.ogg" 雷達圖="smap\263"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Hell Mahal Altar" 地圖檔="map\map264.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="264" 配樂檔1="music\84.ogg" 雷達圖="smap\263"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG1" 國戰地圖="是" 地圖檔="map\map265.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="265" 配樂檔1="music\39.ogg" 雷達圖="smap\121"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG2" 國戰地圖="是" 地圖檔="map\map266.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="266" 配樂檔1="music\39.ogg" 雷達圖="smap\139"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG3" 國戰地圖="是" 地圖檔="map\map267.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="267" 配樂檔1="music\39.ogg" 雷達圖="smap\154"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG4" 國戰地圖="是" 地圖檔="map\map268.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="268" 配樂檔1="music\39.ogg" 雷達圖="smap\163"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG5" 國戰地圖="是" 地圖檔="map\map269.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="269" 配樂檔1="music\39.ogg" 雷達圖="smap\167"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG6" 國戰地圖="是" 地圖檔="map\map270.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="270" 配樂檔1="music\39.ogg" 雷達圖="smap\197"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG7" 國戰地圖="是" 地圖檔="map\map271.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="271" 配樂檔1="music\39.ogg" 雷達圖="smap\210"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="-1" 人數="1000" 名稱="GVG8" 國戰地圖="是" 地圖檔="map\map272.mpc" 天氣="0" 平行空間="9" 筆刷檔="brush\brush.gic" 編號="272" 配樂檔1="music\39.ogg" 雷達圖="smap\232"/>
+	<場景 亮度="255" 名稱="Mariam Patch" 地圖檔="map\map273.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="273" 配樂檔1="music\76.ogg" 雷達圖="smap\273"/>
+	<場景 亮度="255" 名稱="Metal Scrapyard" 地圖檔="map\map274.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="274" 配樂檔1="music\86.ogg" 雷達圖="smap\274"/>
+	<場景 亮度="255" 名稱="Rusty Pipe Lane" 地圖檔="map\map275.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="275" 配樂檔1="music\85.ogg" 雷達圖="smap\275"/>
+	<場景 亮度="255" 名稱="Joaquin" 地圖檔="map\map276.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="276" 配樂檔1="music\87.ogg" 雷達圖="smap\276"/>
+	<場景 亮度="255" 名稱="Scrap Iron Works" 地圖檔="map\map277.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="277" 配樂檔1="music\86.ogg" 雷達圖="smap\277"/>
+	<場景 亮度="255" 名稱="Sylvan Gardens" 地圖檔="map\map278.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="278" 配樂檔1="music\87.ogg" 雷達圖="smap\278"/>
+	<場景 亮度="255" 名稱="Paua Shell Harbor" 地圖檔="map\map279.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="279" 配樂檔1="music\87.ogg" 雷達圖="smap\279"/>
+	<場景 亮度="255" 名稱="Drip-drop Passage" 地圖檔="map\map280.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="280" 配樂檔1="music\85.ogg" 雷達圖="smap\280"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Floral Palace" 地圖檔="map\map281.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="281" 配樂檔1="music\88.ogg" 雷達圖="smap\281"/>
+	<場景 亮度="255" 名稱="Bouquet Gardens" 地圖檔="map\map282.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="282" 配樂檔1="music\87.ogg" 雷達圖="smap\282"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="特殊活動海灘" 地圖檔="map\map283.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="283" 配樂檔1="music\26.ogg" 雷達圖="smap\092"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Christmas Area IV" 地圖檔="map\map284.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="284" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 亮度="255" 名稱="Brilliant Boneyard" 地圖檔="map\map285.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="285" 配樂檔1="music\89.ogg" 雷達圖="smap\285"/>
+	<場景 亮度="255" 名稱="Ivory Forest" 地圖檔="map\map286.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="286" 配樂檔1="music\89.ogg" 雷達圖="smap\286"/>
+	<場景 亮度="255" 名稱="Razorex Temple" 地圖檔="map\map287.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="287" 配樂檔1="music\91.ogg" 雷達圖="smap\287"/>
+	<場景 亮度="255" 名稱="Whitefang Village" 地圖檔="map\map288.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="288" 配樂檔1="music\90.ogg" 雷達圖="smap\288"/>
+	<場景 亮度="255" 名稱="Sleepy Spring" 地圖檔="map\map289.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="289" 配樂檔1="music\90.ogg" 雷達圖="smap\289"/>
+	<場景 亮度="255" 名稱="Transient Waters" 地圖檔="map\map290.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="290" 配樂檔1="music\89.ogg" 雷達圖="smap\290"/>
+	<場景 亮度="255" 名稱="Fragrant Courtyard" 地圖檔="map\map291.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="291" 配樂檔1="music\91.ogg" 雷達圖="smap\291"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Flamefang Sanctum" 地圖檔="map\map292.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="292" 配樂檔1="music\92.ogg" 雷達圖="smap\292"/>
+	<場景 亮度="255" 名稱="Vulcanian Range" 地圖檔="map\map293.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="293" 配樂檔1="music\89.ogg" 雷達圖="smap\293"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="Skelesaur's Map" 地圖檔="map\map294.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="294" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 亮度="255" 名稱="Starglow Path" 地圖檔="map\map295.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="295" 配樂檔1="music\93.ogg" 雷達圖="smap\295"/>
+	<場景 亮度="255" 名稱="Academia Woods" 地圖檔="map\map296.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="296" 配樂檔1="music\94.ogg" 雷達圖="smap\296"/>
+	<場景 亮度="255" 名稱="Mana Ruins" 地圖檔="map\map297.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="297" 配樂檔1="music\93.ogg" 雷達圖="smap\297"/>
+	<場景 亮度="255" 名稱="Coo Village" 地圖檔="map\map298.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="298" 配樂檔1="music\94.ogg" 雷達圖="smap\298"/>
+	<場景 亮度="255" 名稱="Ethereal Garden" 地圖檔="map\map299.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="299" 配樂檔1="music\93.ogg" 雷達圖="smap\299"/>
+	<場景 亮度="255" 名稱="Daydream Library" 地圖檔="map\map300.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="300" 配樂檔1="music\95.ogg" 雷達圖="smap\300"/>
+	<場景 亮度="255" 名稱="Reminiscence Cloister" 地圖檔="map\map301.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="301" 配樂檔1="music\95.ogg" 雷達圖="smap\301"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Enchanted Sanctum" 地圖檔="map\map302.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="302" 配樂檔1="music\96.ogg" 雷達圖="smap\302"/>
+	<場景 亮度="255" 名稱="Ethereal Grounds" 地圖檔="map\map303.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="303" 配樂檔1="music\93.ogg" 雷達圖="smap\303"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Christmas Area V" 地圖檔="map\map304.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="304" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 不懲罰="是" 亮度="255" 名稱="神秘空間" 地圖檔="map\map305.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="305" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 亮度="255" 名稱="Dial Desert" 地圖檔="map\map306.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="306" 配樂檔1="music\97.ogg" 雷達圖="smap\306"/>
+	<場景 亮度="255" 名稱="Greenfield" 地圖檔="map\map307.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="307" 配樂檔1="music\98.ogg" 雷達圖="smap\307"/>
+	<場景 亮度="255" 名稱="Rainbow Town" 地圖檔="map\map308.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="308" 配樂檔1="music\98.ogg" 雷達圖="smap\308"/>
+	<場景 亮度="255" 名稱="Antler Mesa" 地圖檔="map\map309.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="309" 配樂檔1="music\97.ogg" 雷達圖="smap\309"/>
+	<場景 亮度="255" 名稱="Carrotiso" 地圖檔="map\map310.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="310" 配樂檔1="music\98.ogg" 雷達圖="smap\310"/>
+	<場景 亮度="255" 名稱="Cogsville" 地圖檔="map\map311.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="311" 配樂檔1="music\99.ogg" 雷達圖="smap\311"/>
+	<場景 亮度="255" 名稱="Chrono Ruins" 地圖檔="map\map312.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="312" 配樂檔1="music\99.ogg" 雷達圖="smap\312"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Apocalypso" 地圖檔="map\map313.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="313" 配樂檔1="music\100.ogg" 雷達圖="smap\313"/>
+	<場景 亮度="255" 名稱="Carota" 地圖檔="map\map314.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="314" 配樂檔1="music\98.ogg" 雷達圖="smap\314"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 人數="1" 分配類型="個人" 動態空間="是" 名稱="奧林帕斯測試塔2" 地圖檔="map\map315.mpc" 天氣="0" 平行空間="1000" 強制傳送="41" 筆刷檔="brush\brush.gic" 終焉之塔專用地圖="是" 編號="315" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="Caroti" 地圖檔="map\map316.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="316" 配樂檔1="music\98.ogg" 雷達圖="smap\314"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="X'mas Village" 地圖檔="map\map317.mpc" 天氣="0" 平行空間="5" 筆刷檔="brush\brush.gic" 編號="317" 配樂檔1="music\48.ogg" 雷達圖="smap\155"/>
+	<場景 亮度="255" 名稱="Emerald Coast" 地圖檔="map\map318.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="318" 配樂檔1="music\101.ogg" 雷達圖="smap\318"/>
+	<場景 亮度="255" 名稱="Whisper Lake" 地圖檔="map\map319.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="319" 配樂檔1="music\101.ogg" 雷達圖="smap\319"/>
+	<場景 亮度="255" 名稱="Twinkle Town" 地圖檔="map\map320.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="320" 配樂檔1="music\102.ogg" 雷達圖="smap\320"/>
+	<場景 亮度="255" 名稱="Cobalt Market" 地圖檔="map\map321.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="321" 配樂檔1="music\102.ogg" 雷達圖="smap\321"/>
+	<場景 亮度="255" 名稱="Grove of Bliss" 地圖檔="map\map322.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="322" 配樂檔1="music\101.ogg" 雷達圖="smap\322"/>
+	<場景 亮度="255" 名稱="Twilight Mines" 地圖檔="map\map323.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="323" 配樂檔1="music\103.ogg" 雷達圖="smap\323"/>
+	<場景 亮度="255" 名稱="Royal Ruins" 地圖檔="map\map324.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="324" 配樂檔1="music\103.ogg" 雷達圖="smap\324"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Radiant Castle" 地圖檔="map\map325.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="325" 配樂檔1="music\104.ogg" 雷達圖="smap\325"/>
+	<場景 亮度="255" 名稱="Caroto" 地圖檔="map\map326.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="326" 配樂檔1="music\98.ogg" 雷達圖="smap\314"/>
+	<場景 亮度="255" 名稱="Whispera" 地圖檔="map\map327.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="327" 配樂檔1="music\98.ogg" 雷達圖="smap\327"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="回憶時空" 地圖檔="map\map328.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="328" 配樂檔1="music\92.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Christmas Area VI" 地圖檔="map\map329.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="329" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 亮度="255" 名稱="Whisperi" 地圖檔="map\map330.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="330" 配樂檔1="music\101.ogg" 雷達圖="smap\327"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="Whispero" 地圖檔="map\map331.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="331" 配樂檔1="music\104.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 人數="1" 分配類型="個人" 動態空間="是" 名稱="Olympus Tower" 地圖檔="map\map332.mpc" 天氣="0" 平行空間="1000" 強制傳送="41" 筆刷檔="brush\brush.gic" 終焉之塔專用地圖="是" 編號="332" 配樂檔1="music\39.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="Ancient Landing" 地圖檔="map\map333.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="333" 配樂檔1="music\105.ogg" 雷達圖="smap\333"/>
+	<場景 亮度="255" 名稱="Forsaken Crevasse" 地圖檔="map\map334.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="334" 配樂檔1="music\106.ogg" 雷達圖="smap\334"/>
+	<場景 亮度="255" 名稱="Specter Village" 地圖檔="map\map335.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="335" 配樂檔1="music\107.ogg" 雷達圖="smap\335"/>
+	<場景 亮度="255" 名稱="Crystal Marsh" 地圖檔="map\map336.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="336" 配樂檔1="music\105.ogg" 雷達圖="smap\336"/>
+	<場景 亮度="255" 名稱="Crystal Quarry" 地圖檔="map\map337.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="337" 配樂檔1="music\107.ogg" 雷達圖="smap\337"/>
+	<場景 亮度="255" 名稱="Shrouded Haven" 地圖檔="map\map338.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="338" 配樂檔1="music\105.ogg" 雷達圖="smap\338"/>
+	<場景 亮度="255" 名稱="Peril Chasm" 地圖檔="map\map339.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="339" 配樂檔1="music\106.ogg" 雷達圖="smap\339"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Leviathan's Domain" 地圖檔="map\map340.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="340" 配樂檔1="music\108.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="Crystal Grounds" 地圖檔="map\map341.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="341" 配樂檔1="music\105.ogg" 雷達圖="smap\341"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="神秘異次元" 地圖檔="map\map342.mpc" 天氣="0" 平行空間="15" 強制傳送="-2" 筆刷檔="brush\brush.gic" 編號="342" 配樂檔1="music\48.ogg" 雷達圖="smap\155"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="日版初階活動地圖" 地圖檔="map\map343.mpc" 天氣="0" 平行空間="20" 筆刷檔="brush\brush.gic" 編號="343" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 名稱="日版合作案活動地圖" 地圖檔="map\map344.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="344" 配樂檔1="music\02.ogg" 雷達圖="smap\114"/>
+	<場景 亮度="255" 名稱="Hidden Grove" 地圖檔="map\map345.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="345" 配樂檔1="music\109.ogg" 雷達圖="smap\345"/>
+	<場景 亮度="255" 名稱="Forest of Whispers" 地圖檔="map\map346.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="346" 配樂檔1="music\109.ogg" 雷達圖="smap\346"/>
+	<場景 亮度="255" 名稱="Teddy Amusement" 地圖檔="map\map347.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="347" 配樂檔1="music\110.ogg" 雷達圖="smap\347"/>
+	<場景 亮度="255" 名稱="City of Dreams" 地圖檔="map\map348.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="348" 配樂檔1="music\110.ogg" 雷達圖="smap\348"/>
+	<場景 亮度="255" 名稱="Foodie Paradise" 地圖檔="map\map349.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="349" 配樂檔1="music\110.ogg" 雷達圖="smap\349"/>
+	<場景 亮度="255" 名稱="Forbidden Dusk" 地圖檔="map\map350.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="350" 配樂檔1="music\111.ogg" 雷達圖="smap\350"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="Nightmare City" 地圖檔="map\map351.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="351" 配樂檔1="music\112.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="Beary Green" 地圖檔="map\map352.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="352" 配樂檔1="music\109.ogg" 雷達圖="smap\352"/>
+	<場景 不可切換分流="是" 不顯示小地圖="是" 亮度="255" 名稱="喜鵲橋處" 地圖檔="map\map353.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="353" 配樂檔1="music\60.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="語風之丘" 地圖檔="map\map354.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="354" 配樂檔1="music\113.ogg" 雷達圖="smap\354"/>
+	<場景 亮度="255" 名稱="萬象星門" 地圖檔="map\map355.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="355" 配樂檔1="music\114.ogg" 雷達圖="smap\355"/>
+	<場景 亮度="255" 名稱="清語湖泊" 地圖檔="map\map356.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="356" 配樂檔1="music\113.ogg" 雷達圖="smap\356"/>
+	<場景 亮度="255" 名稱="灼熱煉境" 地圖檔="map\map357.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="357" 配樂檔1="music\115.ogg" 雷達圖="smap\357"/>
+	<場景 亮度="255" 名稱="滾滾沙域" 地圖檔="map\map358.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="358" 配樂檔1="music\115.ogg" 雷達圖="smap\358"/>
+	<場景 亮度="255" 名稱="蒼穹書庫" 地圖檔="map\map359.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="359" 配樂檔1="music\114.ogg" 雷達圖="smap\359"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="255" 分配類型="隊伍" 動態空間="是" 名稱="驟星聖宮" 地圖檔="map\map360.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="360" 配樂檔1="music\116.ogg" 雷達圖="smap\004"/>
+	<場景 亮度="255" 名稱="清語採集湖境" 地圖檔="map\map361.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="361" 配樂檔1="music\113.ogg" 雷達圖="smap\361"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 名稱="Halloween Hall" 地圖檔="map\map362.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="362" 配樂檔1="music\60.ogg" 雷達圖="smap\998"/>
+	<場景 亮度="255" 名稱="海底瀑布" 地圖檔="map\map363.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="363" 配樂檔1="music\117.ogg" 雷達圖="smap\363"/>
+	<場景 亮度="96" 名稱="謎語裂隙" 地圖檔="map\map364.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="364" 配樂檔1="music\118.ogg" 雷達圖="smap\364"/>
+	<場景 亮度="255" 名稱="失落城都" 地圖檔="map\map365.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="365" 配樂檔1="music\119.ogg" 雷達圖="smap\365"/>
+	<場景 亮度="255" 名稱="深洋競場" 地圖檔="map\map366.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="366" 配樂檔1="music\119.ogg" 雷達圖="smap\366"/>
+	<場景 亮度="255" 名稱="海王聖殿" 地圖檔="map\map367.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="367" 配樂檔1="music\117.ogg" 雷達圖="smap\367"/>
+	<場景 亮度="96" 名稱="寂淵海牢" 地圖檔="map\map368.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="368" 配樂檔1="music\118.ogg" 雷達圖="smap\368"/>
+	<場景 不可切換分流="是" 不可標記="是" 不顯示小地圖="是" 亮度="96" 分配類型="隊伍" 動態空間="是" 名稱="淵海獸巢" 地圖檔="map\map369.mpc" 天氣="0" 平行空間="15" 筆刷檔="brush\brush.gic" 編號="369" 配樂檔1="music\120.ogg" 雷達圖="smap\004"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 不顯示小地圖="是" 亮度="255" 名稱="天使住宅區" 地圖檔="map\map370.mpc" 天氣="0" 筆刷檔="brush\brush.gic" 編號="370" 配樂檔1="music\113.ogg" 雷達圖="smap\370"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="騰雲樹海" 地圖檔="map\map371.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="371" 配樂檔1="music\38.ogg" 雷達圖="smap\181"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="天使快樂村" 地圖檔="map\map372.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="372" 配樂檔1="music\40.ogg" 雷達圖="smap\182"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="天際方陣" 地圖檔="map\map373.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="373" 配樂檔1="music\39.ogg" 雷達圖="smap\177"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="試煉之城" 地圖檔="map\map374.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="374" 配樂檔1="music\39.ogg" 雷達圖="smap\179"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="虛空幽徑" 地圖檔="map\map375.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="375" 配樂檔1="music\39.ogg" 雷達圖="smap\180"/>
+	<場景 不可切換分流="是" 不可標記="是" 不懲罰="是" 亮度="255" 人數="1000" 名稱="女神之塔" 地圖檔="map\map376.mpc" 天氣="0" 強制傳送="208" 筆刷檔="brush\brush.gic" 編號="376" 配樂檔1="music\39.ogg" 雷達圖="smap\183"/>
+	<場景 不可切換分流="是" 不可標記="是" 亮度="255" 名稱="特等領地祕境" 地圖檔="map\map377.mpc" 天氣="0" 平行空間="2" 強制傳送="-1" 筆刷檔="brush\brush.gic" 編號="377" 配樂檔1="music\26.ogg" 雷達圖="smap\100"/>
+	<場景屬性 __name__="不懲罰" __value__="0x00000001"/>
+	<場景屬性 __name__="國戰地圖" __value__="0x00000002"/>
+	<場景屬性 __name__="不可標記" __value__="0x00000004"/>
+	<場景屬性 __name__="動態空間" __value__="0x00000008"/>
+	<場景屬性 __name__="PK" __value__="0x00000010"/>
+	<場景屬性 __name__="不顯示小地圖" __value__="0x00000020"/>
+	<場景屬性 __name__="但顯示雷達圖" __value__="0x00000040"/>
+	<場景屬性 __name__="PVP陣營對戰" __value__="0x00000080"/>
+	<場景屬性 __name__="終焉之塔專用地圖" __value__="0x00000100"/>
+	<場景屬性 __name__="不可切換分流" __value__="0x00000200"/>
+	<ALIAS alignment="陣營" brush="筆刷檔" coercereturn="強制傳送" deco="裝飾地圖檔" dynamictype="分配類型" flag="場景屬性" id="編號" light="亮度" map="地圖檔" mapping="場景對應" max_parallel="平行空間" msg="文字檔" music1="配樂檔1" music2="配樂檔2" name="名稱" original_domain_id="原領地編號" playernum="人數" smap="雷達圖" stage="場景" weather="天氣"/>
+	<DEFINE FALSE="0" TRUE="1" false="0" true="1" 不可="0" 可="1" 否="0" 是="1"/>
+	<DEFINE LIGHT_AUTO="-1"/>
+	<DEFINE 中櫻花雨="11" 中雨="4" 中雪="7" 大櫻花雨="12" 大雨="5" 大雪="8" 小櫻花雨="10" 小雨="3" 小雪="6" 櫻花雨自動改大小="9" 無="0" 自動下雨="1" 自動下雪="2"/>
+	<DEFINE PK="6" 中立="0" 光明="1" 大地="2" 怪物陣營="7" 渾沌="3" 無陣營="5" 黑暗="4"/>
+	<DEFINE 個人="0" 公會="2" 平均="3" 數量="4" 隊伍="1"/>
+</root>
